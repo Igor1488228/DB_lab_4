@@ -36,7 +36,7 @@ def get_user_query(test_coll: Collection, filename):
             {"$group": {"_id": {"year": "$TestYear",
                                 "region": "$REGNAME"},
                         "mathAverageMark": {"$avg": "$mathBall100"}}},
-            {"$sort": {"_id": 1}} #сортуємо результат по роках
+            {"$sort": {"_id": 1}} #сортуємо результат по роках та обастях
         ]
     )
 
