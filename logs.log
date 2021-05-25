@@ -1,0 +1,10 @@
+2021-05-26 01:31:09,671 INFO __main__::main: Start time 2021-05-26 01:31:09.671624
+2021-05-26 01:31:09,719 INFO __main__::create_last_row_collection: Creating collections
+2021-05-26 01:31:09,799 INFO __main__::insert_data: Inserting data from 379299 row from file for 2020 year
+2021-05-26 01:33:15,408 INFO __main__::insert_data: Inserting from Odata2020File.csv is finished
+2021-05-26 01:33:15,409 INFO __main__::main: End time 2021-05-26 01:33:15.409449
+2021-05-26 01:33:15,409 INFO __main__::main: Inserting executing time 0:02:05.737825
+2021-05-26 01:33:15,409 INFO __main__::get_user_query: Getting data for users query
+2021-05-26 01:34:05,350 INFO __main__::get_user_query: Users query data recorded into result.csv
+2021-05-26 01:34:05,373 INFO __main__::main: Program is finished
+2021-05-26 01:34:05,374 INFO __main__::main: Total inserting executing time 0:10:47.420977
